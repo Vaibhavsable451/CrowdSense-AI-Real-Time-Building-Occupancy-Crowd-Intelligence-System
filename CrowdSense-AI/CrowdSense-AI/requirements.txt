@@ -1,5 +1,5 @@
-clsultralytics
-opencv-python
+ultralytics
+opencv-python-headless
 supervision
 numpy
 pandas
