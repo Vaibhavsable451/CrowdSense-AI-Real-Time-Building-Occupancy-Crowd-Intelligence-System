@@ -1,1 +1,1 @@
--r CrowdSense-AI/requirements.txt
+-r CrowdSense-AI/CrowdSense-AI/requirements.txt
