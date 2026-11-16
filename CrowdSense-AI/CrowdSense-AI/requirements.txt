@@ -1,0 +1,16 @@
+clsultralytics
+opencv-python
+supervision
+numpy
+pandas
+scikit-learn
+fastapi
+uvicorn[standard]
+streamlit
+plotly
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+Pillow
+pytest
